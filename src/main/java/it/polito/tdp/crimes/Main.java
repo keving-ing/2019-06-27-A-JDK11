@@ -26,3 +26,9 @@ private TableView<DestinazionePeso> tblQuartieri; // Value injected by FXMLLoade
 //In TableView mettete solo Adiacenza
 
 //Per il resto la table si popola da sola
+
+
+//--------------------------------------------------------------------------
+
+//Dice Gabbo che il peso é molto difficile e ad alcuni anche se leggermente sbagliato ha dato lo stesso 18,
+//quindi completate tutto e non vi ritirate anche se il peso non torna, fatevelo correggere lo stesso
